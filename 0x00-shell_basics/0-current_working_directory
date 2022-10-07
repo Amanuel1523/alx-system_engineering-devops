@@ -1,2 +1,3 @@
 #!/bin/bash   
-echo -e "0-current_working_directory" \n pwd
+echo "0-current_working_directory" 
+pwd
